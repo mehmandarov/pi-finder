@@ -7,4 +7,4 @@ A set of tools for administration and set up of Raspberry Pis.
 Script for searching for Raspberry PIs on the network.
 
 ### pi-cloner
-Script for cloning an SD card with a Raspbian. Script includes functionality to change the hostname when cloning to new SD cards.
+Tool to distribute Raspberry Pi image from one Pi to multiple. Script includes functionality to change the hostname when cloning to new SD cards.
